@@ -1,9 +1,12 @@
 # YoutubeAudioSeparator
-Uses [Demucs](https://github.com/facebookresearch/demucs/) and [ytmp3-dl](https://github.com/poseidon-code/ytmp3-dl) to quickly download a youtube video, convert it to mp3 and separate the audio tracks into clean Vocals, Bass, Drums and Other.
+This Notebook lets you quickly extract and separate the audio of a youtube video into vocals, bass and drum tracks.
+
+Uses [Demucs](https://github.com/facebookresearch/demucs/) and [ytmp3-dl](https://github.com/poseidon-code/ytmp3-dl)
 
 # Usage
-- Run the Cells under Prerequisites
+- Download the Jupyter Notebook or #[Run in Google Colab](https://colab.research.google.com/drive/1yfbz0qaq4Iq--wOJSmunyiCcNM-Yd-ao#scrollTo=CjnUeFMUwwRj)
+- Run `Prerequisites`
 - Edit the youtube Link
 - Run either Converter Cell
 
-#[Run in Google Colab](https://colab.research.google.com/drive/1yfbz0qaq4Iq--wOJSmunyiCcNM-Yd-ao#scrollTo=CjnUeFMUwwRj)
+
