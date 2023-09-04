@@ -1,5 +1,5 @@
 # YoutubeAudioSeparator
-Youtube Audio Downloader and Separator
+Uses [Demucs](https://github.com/facebookresearch/demucs/) and [ytmp3-dl](https://github.com/poseidon-code/ytmp3-dl) to quickly download a youtube video, convert it to mp3 and separate the audio tracks into clean Vocals, Bass, Drums and Other.
 
 # Usage
 - Run the Cells under Prerequisites
