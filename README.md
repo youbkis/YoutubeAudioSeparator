@@ -1,5 +1,4 @@
 # Youtube Audio Separator
-## Currently only works on Linux
 This Notebook lets you quickly extract and separate the audio of a youtube video into vocals, bass and drum tracks.
 
 Uses [Demucs Music Source Separation](https://github.com/facebookresearch/demucs/) and [yt-dlp](https://github.com/yt-dlp/yt-dlp)
