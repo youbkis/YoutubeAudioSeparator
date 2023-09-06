@@ -3,14 +3,12 @@ This Notebook lets you quickly extract and separate the audio of a youtube video
 
 Uses [Demucs Music Source Separation](https://github.com/facebookresearch/demucs/) and [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
-# Usage
-1.
--  Clone this repository and run the Jupyter Notebook `Youtube_Audio_Separator.ipynb`
+# Installation
+[Open in Google Colab](https://colab.research.google.com/drive/1yfbz0qaq4Iq--wOJSmunyiCcNM-Yd-ao#scrollTo=CjnUeFMUwwRj) **Or** Clone this repository and run the Notebook locally
 
-   **Or**
-   
-- [Run in Google Colab](https://colab.research.google.com/drive/1yfbz0qaq4Iq--wOJSmunyiCcNM-Yd-ao#scrollTo=CjnUeFMUwwRj)
-2.
-- Follow the steps of the Notebook
+# Usage
+- Run Prerequisite Cells
+- Edit Link
+- Run Converter Cell
 
 
